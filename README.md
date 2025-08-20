@@ -16,7 +16,7 @@ Minha trajetória é marcada pela liderança técnica de equipes de alta perform
 
 - 🤔 Estou aberto a trocar ideias sobre estratégias de liderança técnica, design de sistemas, boas práticas em Python e os desafios da engenharia de software em larga escala.
 
-- 💬 Pergunte-me sobre **Python, Django, FastAPI, Arquitetura de Software, Microsserviços, AWS, Kubernetes** e **Liderança Técnica**.
+- 💬 Pergunte-me sobre **Python, Django, FastAPI, Django Ninja, Arquitetura de Software, Microsserviços, AWS, Kubernetes** e **Liderança Técnica**.
 
 - 📫 Você pode me encontrar no **LinkedIn**: `https://www.linkedin.com/in/gilsonpaulino/`
 
