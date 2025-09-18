@@ -2,7 +2,7 @@
 
 ### Tech Lead | Senior Software Engineer | Python Specialist
 
-Com mais de 13 anos de experiência no ecossistema **Python**, sou um Engenheiro de Software Sênior e Líder Técnico apaixonado por arquitetar e construir soluções digitais robustas, escaláveis e de alto impacto.
+Com mais de 14 anos de experiência no ecossistema **Python**, sou um Engenheiro de Software Sênior e Líder Técnico apaixonado por arquitetar e construir soluções digitais robustas, escaláveis e de alto impacto.
 
 Minha trajetória é marcada pela liderança técnica de equipes de alta performance e pelo desenvolvimento de sistemas complexos de ponta a ponta — da concepção e documentação de arquitetura (ADRs, Design Docs) até a entrega em produção e a otimização contínua de performance e custos (FinOps). Sou movido pelo desafio de resolver problemas complexos e transformar ideias em software de qualidade.
 
